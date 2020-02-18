@@ -1,4 +1,4 @@
-# ResourceFul
+# Shockeys
 
 This is the repository of team ResourceFul. 
 
