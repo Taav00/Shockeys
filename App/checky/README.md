@@ -1,4 +1,4 @@
-# heartrateapp
+# Check-y
 
 A new Flutter application.
 
