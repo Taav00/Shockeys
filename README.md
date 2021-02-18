@@ -95,7 +95,8 @@ We used Chase Strickler's hear rate app ([GitHub](https://github.com/strcklr/DDi
 🧑🏻‍🏭 **Taavet Kangur** (in charge of the hardware development) <br>
 👩🏼‍💻 **Diane Marquette** (in charge of the firmware and app development) <br>
 🧑🏾‍💻 **Maëlick Brochut** (in charge of the signal processing and back-end) <br>
-👩🏻‍🎨 **Marine Fondin** (in charge of the headband design) 
+👩🏻‍🎨 **Marine Fondin** (in charge of the headband design) <br>
+💵 **Nicolas Mauroux** (the business guy)
 
 ## License
 
