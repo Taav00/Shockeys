@@ -6,7 +6,7 @@ This project was completed as part of the Chinese Hardware Innovation Camp (CHIC
 
 * [Description](#description)
 * [App screenshots](#app-screenshots)
-* [Tech/frameworks used](#tech/frameworks-used)
+* [Tech/frameworks used](#techframeworks-used)
 * [Hardware needed](#hardware-needed)
 * [Setup](#setup)
 * [How to use our device](#how-to-use-our-device)
